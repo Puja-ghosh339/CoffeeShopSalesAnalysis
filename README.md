@@ -25,3 +25,9 @@ This dataset contains detailed records of coffee sales from a vending machine.Th
 ➡️Latte is the product with the highest revenue, while Expresso is the one at the bottom.
 <br>
 ➡️ Coffee contributes the highest percentage (24%) of revenue among all categories.
+<br>
+<br>
+💡Conclusion:
+<br>
+From the analysis above, we have uncovered valuable insights into customer shopping patterns on a monthly,daily and weekly basis. We have identified the most
+popular coffee products and observed the shopping trends over time. These findings are instrumental in optimizing inventory planning, designing the layout of vending machines, and determining the ideal restock times for coffee products.
