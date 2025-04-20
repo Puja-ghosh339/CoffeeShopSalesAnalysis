@@ -1,6 +1,7 @@
 # CoffeeShopSalesAnalysis
 <br>
 🚀 Coffee Shop Sales Trend Dashboard – All in Excel! ☕📊
+<br>
 You don’t always need advanced BI tools to generate powerful insights! I built a sales trend dashboard using only Excel to demonstrate that great results are possible with the right data approach.
 <br>
 🔍 Key Objectives:
